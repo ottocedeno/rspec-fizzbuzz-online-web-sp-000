@@ -12,3 +12,5 @@ def fizzbuzz(number)
    return nil
  end
 end
+
+fizzbuzz(15)
